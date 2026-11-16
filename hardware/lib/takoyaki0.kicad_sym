@@ -29,7 +29,7 @@
 				)
 			)
 		)
-		(property "Footprint" "takoyaki0:RP2040-Zero_Header_Castellated"
+		(property "Footprint" "takoyaki0:RP2040-Zero_PinHeader"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51,7 +51,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Waveshare RP2040-Zero module, edge pins only (pin header or castellated). Pin numbers: left 1-9, bottom 10-14, right 15-23"
+		(property "Description" "Waveshare RP2040-Zero module, on pin headers, all 23 edge holes. Pin numbers: left 1-9, bottom 10-14, right 15-23"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

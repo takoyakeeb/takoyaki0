@@ -2212,7 +2212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "takoyaki0:RP2040-Zero_Header_Castellated"
+		(property "Footprint" "takoyaki0:RP2040-Zero_PinHeader"
 			(at 63.5 45.72 0)
 			(hide yes)
 			(show_name no)
