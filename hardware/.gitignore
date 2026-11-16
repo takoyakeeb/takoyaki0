@@ -1,0 +1,11 @@
+# KiCad が自動で作るファイル(コミットしない)
+*-backups/
+_autosave-*
+*.kicad_prl
+fp-info-cache
+~*
+*.lck
+.history/
+
+# Gerber(KiCad が書き出す生成物。配布は GitHub のリリースで行う)
+gerber/
