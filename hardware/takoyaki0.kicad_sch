@@ -1484,7 +1484,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "takoyaki0:SW_MX_HS_CPG151101S11_1u"
 			(at 119.38 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -1564,7 +1564,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "takoyaki0:SW_MX_HS_CPG151101S11_1u"
 			(at 233.68 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -1746,7 +1746,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "takoyaki0:SW_MX_HS_CPG151101S11_1u"
 			(at 119.38 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -1826,7 +1826,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "takoyaki0:SW_MX_HS_CPG151101S11_1u"
 			(at 195.58 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -2355,7 +2355,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "takoyaki0:SW_MX_HS_CPG151101S11_1u"
 			(at 157.48 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -2537,7 +2537,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "takoyaki0:SW_MX_HS_CPG151101S11_1u"
 			(at 157.48 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -2821,7 +2821,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "takoyaki0:SW_MX_HS_CPG151101S11_1u"
 			(at 195.58 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -2901,7 +2901,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "takoyaki0:SW_MX_HS_CPG151101S11_1u"
 			(at 233.68 31.75 0)
 			(hide yes)
 			(show_name no)
