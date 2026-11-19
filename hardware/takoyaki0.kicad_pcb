@@ -94,7 +94,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D5"
-			(at 5.08 -2.12 0)
+			(at 12.58 0 0)
 			(layer "F.SilkS")
 			(uuid "1dd5cc85-aa13-4287-904e-04c33ee7bf16")
 			(effects
@@ -321,7 +321,7 @@
 			(uuid "4260439c-3f46-4a57-869d-195e1e572ed7")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 0)
+			(at -2.22 0 0)
 			(layer "F.SilkS")
 			(uuid "06a872e5-74cb-4fcb-9ffd-99140d4a362b")
 			(effects
@@ -396,7 +396,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
-			(at 5.08 -2.12 0)
+			(at 12.58 0 0)
 			(layer "F.SilkS")
 			(uuid "61976761-e88e-4dab-a096-338bf6d918a7")
 			(effects
@@ -623,7 +623,7 @@
 			(uuid "18c09494-4ded-4986-abc6-7375632d5b10")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 0)
+			(at -2.22 0 0)
 			(layer "F.SilkS")
 			(uuid "d4968523-f1f3-472b-9720-c2ba8bd17e5d")
 			(effects
@@ -698,7 +698,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D4"
-			(at 5.08 -2.12 0)
+			(at 12.58 0 0)
 			(layer "F.SilkS")
 			(uuid "c447cd78-431f-4b07-b965-9cd47126cafe")
 			(effects
@@ -925,7 +925,7 @@
 			(uuid "ec09bc91-89ce-4d5a-9e77-c83dd0c94773")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 0)
+			(at -2.22 0 0)
 			(layer "F.SilkS")
 			(uuid "b1a85e36-3cbf-4dcc-94fa-dbcd5ab0f32e")
 			(effects
@@ -1002,6 +1002,7 @@
 		(property "Reference" "U1"
 			(at 0 -14 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3b407fc3-6d0d-4ab1-8be3-15330e593439")
 			(effects
 				(font
@@ -1059,7 +1060,7 @@
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
-			(start -9.1 -11.85)
+			(start -9.1 -11.5)
 			(end 9.1 11.85)
 			(stroke
 				(width 0.12)
@@ -1068,17 +1069,6 @@
 			(fill no)
 			(layer "F.SilkS")
 			(uuid "06b4f575-e4a1-41c7-b16d-971e5655deb5")
-		)
-		(fp_rect
-			(start -4.67 -12.9)
-			(end 4.33 -11.85)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill no)
-			(layer "F.SilkS")
-			(uuid "a585912a-2485-43bd-95af-dc4063c1efee")
 		)
 		(fp_rect
 			(start -9.5 -13.4)
@@ -1386,7 +1376,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D8"
-			(at 5.08 -2.12 0)
+			(at 12.58 0 0)
 			(layer "F.SilkS")
 			(uuid "68622ef4-d53a-4a1c-af62-5ffb98bfa293")
 			(effects
@@ -1613,7 +1603,7 @@
 			(uuid "9385abc3-5850-4527-9805-3f0ef0b1ce23")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 0)
+			(at -2.22 0 0)
 			(layer "F.SilkS")
 			(uuid "a40fa691-fab4-4c28-bb8d-07ce5a3787ca")
 			(effects
@@ -1688,7 +1678,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
-			(at 5.08 -2.12 0)
+			(at 12.58 0 0)
 			(layer "F.SilkS")
 			(uuid "bf09fe63-0702-46c9-93d4-fee719469045")
 			(effects
@@ -1915,7 +1905,7 @@
 			(uuid "5b2c1cec-3419-4a09-97f7-5517082b7347")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 0)
+			(at -2.22 0 0)
 			(layer "F.SilkS")
 			(uuid "c96b46c3-cd76-4cd6-961d-42e45225b532")
 			(effects
@@ -1990,7 +1980,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
-			(at 5.08 -2.12 0)
+			(at 12.58 0 0)
 			(layer "F.SilkS")
 			(uuid "8b1aa3ef-f89b-4a5c-8033-bd92160c3d07")
 			(effects
@@ -2217,7 +2207,7 @@
 			(uuid "dce1ea15-188c-42d7-9bc8-b774c405798f")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 0)
+			(at -2.22 0 0)
 			(layer "F.SilkS")
 			(uuid "a4df6059-562e-463c-89dd-9241015fbc4a")
 			(effects
@@ -2292,7 +2282,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
-			(at 5.08 -2.12 0)
+			(at 12.58 0 0)
 			(layer "F.SilkS")
 			(uuid "0af22159-7ee8-4e10-b5d3-6ad5819e8e7b")
 			(effects
@@ -2519,7 +2509,7 @@
 			(uuid "de3c4524-8884-4f26-a8a7-6529491e9034")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 0)
+			(at -2.22 0 0)
 			(layer "F.SilkS")
 			(uuid "992144f4-d8ec-4191-96be-5dbfcabe1ee7")
 			(effects
@@ -2594,7 +2584,7 @@
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
-			(at 5.08 -2.12 0)
+			(at 12.58 0 0)
 			(layer "F.SilkS")
 			(uuid "ef2f56d0-76c2-432c-9bfa-e8b4807ccbe2")
 			(effects
@@ -2821,7 +2811,7 @@
 			(uuid "c9b6e90b-f1e9-4af4-b353-7478c638adc4")
 		)
 		(fp_text user "K"
-			(at 0 -1.8 0)
+			(at -2.22 0 0)
 			(layer "F.SilkS")
 			(uuid "d380b740-a2a9-4445-8ce6-3d7545970acb")
 			(effects
@@ -7743,6 +7733,42 @@
 			(rotate
 				(xyz 180 0 0)
 			)
+		)
+	)
+	(gr_text "takoyaki0 entry rev1.0"
+		(at 159.5 103.5 0)
+		(layer "B.SilkS")
+		(uuid "35e8740e-4286-4a3a-bede-da3047f85ab6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "github.com/takoyakeeb/takoyaki0"
+		(at 150 148.6 0)
+		(layer "B.SilkS")
+		(uuid "5d604ce4-49aa-4820-97cf-804539099e90")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "© 2026 TakoyaKeeb"
+		(at 182 148.6 0)
+		(layer "B.SilkS")
+		(uuid "a1d4aae2-840d-479d-8cce-ef4ba9a740f4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
 		)
 	)
 	(gr_arc
