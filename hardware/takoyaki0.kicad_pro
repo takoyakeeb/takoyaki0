@@ -70,7 +70,40 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_to_hole|125845000|116525000|28605c1b-dcc7-4bcc-8092-9a3598c02377|51197ea6-d446-42f7-9b26-9e685528a4a8",
+          ""
+        ],
+        [
+          "hole_to_hole|125845000|135575000|465112e0-cc33-4084-87a3-af93141e3d15|6bf8ac0c-63a8-4fa2-88eb-ccd3f7b0a0a0",
+          ""
+        ],
+        [
+          "hole_to_hole|144895000|116525000|228a9945-8dc6-4092-9806-2376fbe2c156|5e558920-ff31-4449-bfbd-1bfb791344e7",
+          ""
+        ],
+        [
+          "hole_to_hole|144895000|135575000|06353595-ade0-4014-9489-0f471e7046ef|209fd8ef-6926-425e-8aa9-44ff565c9460",
+          ""
+        ],
+        [
+          "hole_to_hole|163945000|116525000|5cd1f29c-3cc3-4187-90dd-72cf8cb6c777|b4e06e0b-2ae6-4654-bba7-0240ce197d60",
+          ""
+        ],
+        [
+          "hole_to_hole|163945000|135575000|89f671c4-9091-48fa-8cbc-4764dc3ca596|e0f7d465-bb91-4c22-9428-bece6dcc351d",
+          ""
+        ],
+        [
+          "hole_to_hole|182995000|116525000|120d811a-0017-4e8e-9d18-ad0053fca303|af66162b-65f4-4edb-80aa-e1b205c10397",
+          ""
+        ],
+        [
+          "hole_to_hole|182995000|135575000|025033f9-7b5b-4afb-a4cc-eb1aa5181924|ba697df9-570e-45f3-bc1a-38309f2cac81",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -145,7 +178,7 @@
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.25,
+        "min_hole_to_hole": 0.5,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 2,
@@ -510,7 +543,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
+        "track_width": 0.25,
         "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
